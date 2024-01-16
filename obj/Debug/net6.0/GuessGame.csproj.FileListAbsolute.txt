@@ -1,0 +1,15 @@
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/bin/Debug/net6.0/GuessGame
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/bin/Debug/net6.0/GuessGame.deps.json
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/bin/Debug/net6.0/GuessGame.runtimeconfig.json
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/bin/Debug/net6.0/GuessGame.dll
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/bin/Debug/net6.0/GuessGame.pdb
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.csproj.AssemblyReference.cache
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfoInputs.cache
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfo.cs
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.csproj.CoreCompileInputs.cache
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.dll
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/refint/GuessGame.dll
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.pdb
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/GuessGame.genruntimeconfig.cache
+/home/sir-derrick/Desktop/C#/cat1/GuessGame/obj/Debug/net6.0/ref/GuessGame.dll
